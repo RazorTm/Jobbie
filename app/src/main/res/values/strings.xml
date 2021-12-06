@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jobbie</string>
+    <string name="image_favorite">image_favorite</string>
+    <string name="logo">company logo</string>
+    <string name="no_jobs_saved">No Jobs Saved</string>
+    <string name="search">Search...</string>
+    <string name="today">Today</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_type">job type</string>
+    <string name="job_location">Job location</string>
+    <string name="company_name">Company Name</string>
+</resources>
