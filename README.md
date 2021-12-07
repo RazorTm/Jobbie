@@ -13,7 +13,7 @@
 #### - Retrofit2
 #### - Glide
 #### - Navigation Components
-#### - Save Args
+#### - Safe Args
 #### - TabLayout
 #### - Swipe to Refresh
 #### - DiffUtil with RecyclerView
